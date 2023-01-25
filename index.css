@@ -87,7 +87,7 @@ body {
     font-family: var(--ff-sans-normal);
     font-size: var(--fs-400);
     color: hsl( var(--clr-white) );
-    background-image: linear-gradient(180deg, #050505, #1a2630);
+    background-image: linear-gradient(180deg, #01033e, #7c4b4b);
     line-height: 1.5;
     min-height: 100vh;
     display: grid;
