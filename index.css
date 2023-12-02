@@ -503,7 +503,7 @@ body {
     display: grid;
     place-items: center;
     padding-inline: 1rem;
-    padding-bottom: 4rem;
+    padding-bottom: 0rem;
 }
 
 .grid-container p:not([class]) {
@@ -610,7 +610,7 @@ body {
     }
     
     .grid-container--home {
-        padding-bottom: max(6rem, 20vh);
+        /*padding-bottom: max(6rem, 20vh);*/
         align-items: end;
     }
     
