@@ -504,6 +504,7 @@ body {
     place-items: center;
     padding-inline: 1rem;
     padding-bottom: 0rem;
+    align-items: end;
 }
 
 .grid-container p:not([class]) {
