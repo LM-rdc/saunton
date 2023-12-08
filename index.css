@@ -227,7 +227,7 @@ select {
     /*font-family: var(--ff-sans-cond);*/
     font-size: var(--fs-800);
     text-transform: uppercase;
-    letter-spacing: 4.72px; 
+    /*letter-spacing: 4.72px;*/
 }
 
 .numbered-title span {
