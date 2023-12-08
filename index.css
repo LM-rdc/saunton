@@ -377,7 +377,7 @@ select {
      }
      
     nav {
-        order: 2;
+        /*order: 2;*/
     }
     
     .primary-navigation {
