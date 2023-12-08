@@ -503,7 +503,7 @@ body {
 
 
 .grid-container {
-    text-align: center;
+    text-align: left;
     display: grid;
     place-items: center;
     padding-inline: 1rem;
