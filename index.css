@@ -224,10 +224,11 @@ select {
 }
 
 .numbered-title {
-    /*font-family: var(--ff-sans-cond);*/
+    font-family: var(--ff-sans-cond);
     font-size: var(--fs-800);
-    text-transform: uppercase;
-    letter-spacing: 4.72px;
+    /*text-transform: uppercase;*/
+    /*letter-spacing: 4.72px;*/
+    margin-right: auto;
 }
 
 .numbered-title span {
