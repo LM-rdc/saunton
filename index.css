@@ -224,14 +224,15 @@ select {
     line-height: 1.1;
 }
 
--title {
+.numbered-title {
     font-family: var(--ff-sans-cond);
     font-size: var(--fs-800);
     /*text-transform: uppercase;*/
     /*letter-spacing: 4.72px;*/
+    margin-right: auto;
 }
 
--title span {
+.numbered-title span {
     margin-right: .5em;
     font-weight: 700;
     color: hsl( var(--clr-white) / .25);
@@ -514,7 +515,7 @@ body {
     max-width: 50ch;
 }
 
--title {
+.numbered-title {
     grid-area: title;
 }
 
@@ -585,7 +586,8 @@ body {
 
 @media (min-width: 35em) {
     .numbered-title {
-        justify-self: left;
+        justify-self: centre;
+        /*margin-top: 2rem;*/
     }
     
     .destination-meta {
