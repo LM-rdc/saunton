@@ -98,7 +98,7 @@ body {
 /* make images easier to work with */
 img,
 picutre {
-    max-width: 100%;
+    max-width: 125%;
     display: block;
 }
 
