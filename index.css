@@ -131,7 +131,7 @@ select {
 
 .flex {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     gap: var(--gap, 1rem);
     flex-wrap: wrap;
 }
@@ -291,7 +291,6 @@ select {
     --gap: clamp(0.5rem, 3vw, 3rem);
     list-style: none;
     backdrop-filter: blur(1.5rem);
-    justify-content: center;
 }
 
 .primary-navigation a {
