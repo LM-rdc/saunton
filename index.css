@@ -229,6 +229,7 @@ select {
     font-size: var(--fs-800);
     /*text-transform: uppercase;*/
     /*letter-spacing: 4.72px;*/
+    justify-self: center;
     
 }
 
