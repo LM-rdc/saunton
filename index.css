@@ -328,7 +328,7 @@ select {
         position: absolute;
         z-index: 2000;
         right: 1rem;
-        top: 2rem;
+        top: 1rem;
         background: transparent;
         background-image: url(./assets/shared/icon-hamburger.svg);
         background-repeat: no-repeat;
