@@ -131,6 +131,7 @@ select {
 
 .flex {
     display: flex;
+    justify-content: space-between;
     gap: var(--gap, 1rem);
     flex-wrap: wrap;
 }
