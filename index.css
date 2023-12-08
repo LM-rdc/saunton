@@ -561,9 +561,9 @@ body {
     --flow-space: 2rem;
     grid-template-areas: 
         'title'
-        'image'
+        'content'
         'tabs'
-        'content';
+        'image';
 }
 
 .grid-container--crew > picture {
