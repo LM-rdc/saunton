@@ -280,6 +280,8 @@ select {
 }*/
 
 .primary-header {
+    margin-top: 5px;
+    margin-left: 5px;
     justify-content: none;
     align-items: none;
 }
