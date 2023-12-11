@@ -24,7 +24,7 @@
     --ff-sans-normal: "Barlow", sans-serif;
 }
 
-@media (min-width: 35em) {
+@media (min-width: ) {
     :root {
         --fs-800: 5rem;
         --fs-700: 2.5rem;
@@ -307,6 +307,12 @@ select {
 }
 
 @media (max-width: 35rem) {
+
+     .grid-container {
+        display:block;
+    }
+    
+    
     .primary-navigation {
         --underline-gap: .5rem;
         position: fixed;
@@ -354,13 +360,13 @@ select {
     
 }
 
-@media (min-width: 35em) {
+@media (min-width: ) {
     .primary-navigation {
         padding-inline: clamp(3rem, 7vw, 7rem);
     }
 }
 
-@media (min-width: 35em) and (max-width: 44.999em) {
+@media (min-width: ) and (max-width: 44.999em) {
     .primary-navigation a > span {
         display: none;
     }
@@ -585,12 +591,7 @@ body {
     color: hsl( var(--clr-white) / .5);
 }
 
-@media (min-width: 35em) {
-    
-    .grid-container {
-        display:block;
-    }
-    
+@media (min-width: ) {
     
     .destination-meta {
         flex-direction: row;
