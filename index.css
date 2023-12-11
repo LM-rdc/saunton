@@ -88,7 +88,7 @@ body {
     font-size: var(--fs-500);
     color: hsl( var(--clr-white) );
     background: linear-gradient(270deg, rgb(88 87 197 / 98%) 4%, rgb(86 126 165) 34%, rgb(94 194 150) 100%);
-    line-height: 1.5;
+    /*line-height: 1.5;*/
     min-height: 100vh;
     display: grid;
     grid-template-rows: min-content 1fr;
