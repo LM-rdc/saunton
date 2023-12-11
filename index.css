@@ -587,7 +587,9 @@ body {
 
 @media (min-width: 35em) {
     
-    
+    .grid-container {
+        display:block;
+    }
     
     
     .destination-meta {
@@ -596,7 +598,6 @@ body {
     }
     
     .grid-container--crew {
-        display: block;
         padding-bottom: 0;
         grid-template-areas: 
             'title'
