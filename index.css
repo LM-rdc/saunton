@@ -587,9 +587,7 @@ body {
 
 @media (min-width: 35em) {
     
-    .grid-container--crew {
-        display: none;
-    }
+    
 
     .numbered-title (
     justify-self: start;
