@@ -588,13 +588,8 @@ body {
 @media (min-width: 35em) {
     
     
-
     .numbered-title {
         justify-self: start;
-    }
-    
-    .numbered-title {
-        justify-self: centre;
         /*margin-top: 2rem;*/
     }
     
