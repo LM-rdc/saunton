@@ -308,10 +308,7 @@ select {
 
 @media (max-width: 35rem) {
 
-     .grid-container {
-        display:block;
-    }
-    
+ 
     
     .primary-navigation {
         --underline-gap: .5rem;
