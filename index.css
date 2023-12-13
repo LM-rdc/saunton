@@ -10,7 +10,7 @@
     
     /* font-sizes */
     --fs-900: clamp(5rem, 8vw + 1rem, 9.375rem);
-    --fs-800: 3.3rem;
+    --fs-800: 3.5rem;
     --fs-700: 1.5rem;
     --fs-600: 1.2rem;
     --fs-500: 1.2rem;
@@ -37,11 +37,11 @@
 @media (min-width: 45em) {
     :root {
         /* font-sizes */
-        --fs-800: 6.25rem;
-        --fs-700: 3.5rem;
-        --fs-600: 2rem;
-        --fs-500: 1.75rem;
-        --fs-400: 1.125rem;
+        ---800: 6.25rem;
+        ---700: 3.5rem;
+        ---600: 2rem;
+        ---500: 1.75rem;
+        ---400: 1.125rem;
     }
 }
 
@@ -85,7 +85,7 @@ p {
 /* set up the body */
 body {
     font-family: var(--ff-sans-normal);
-    font-size: var(--fs-500);
+    font-size: var(---500);
     color: hsl( var(--clr-white) );
     background: linear-gradient(270deg, rgb(88 87 197 / 98%) 4%, rgb(86 126 165) 34%, rgb(94 194 150) 100%);
     /*line-height: 1.5;*/
