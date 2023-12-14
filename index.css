@@ -339,12 +339,12 @@ select {
         position: absolute;
         z-index: 2000;
         right: 1.5rem;
-        top: 2rem;
+        top: 1.5rem;
         background: transparent;
         background-image: url(./assets/shared/menu-4-32.png);
         background-repeat: no-repeat;
         background-position: center;
-        width: 1.5rem;
+        width: 2.5rem;
         aspect-ratio: 1;
         border: 0;
     }
