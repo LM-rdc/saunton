@@ -226,7 +226,7 @@ select {
 
 .numbered-title {
     font-family: var(--ff-sans-cond);
-    font-size: var(--fs-800);
+    font-size: var(--fs-900);
     /*text-transform: uppercase;*/
     /*letter-spacing: 4.72px;*/
     justify-self: center;
