@@ -315,8 +315,15 @@ select {
     justify-self: start;
     font-size: var(--fs-800);
 }
- 
 
+    img, picutre {
+    max-width: 200%;
+}
+
+    
+    .grid-container {
+        place-items: start;
+    }
 
     
     .primary-navigation {
