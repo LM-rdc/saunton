@@ -322,7 +322,7 @@ select {
 
     
     .grid-container {
-        place-items: flex-start;
+        place-items: baseline;
     }
 
     
