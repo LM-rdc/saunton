@@ -320,10 +320,6 @@ select {
     max-width: 200%;
 }
 
-    
-    .grid-container {
-        place-items: baseline;
-    }
 
     
     .primary-navigation {
@@ -525,7 +521,6 @@ body {
 .grid-container {
     text-align: left;
     display: grid;
-    place-items: center;
     padding-inline: 1rem;
     padding-bottom: 0rem;
     align-items: start;
