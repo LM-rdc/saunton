@@ -283,7 +283,7 @@ select {
 
 .primary-header {
     margin-top: 10px;
-    margin-left: 10px;
+    margin-right: 35px;
     justify-content: none;
     align-items: none;
 }
