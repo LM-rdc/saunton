@@ -310,8 +310,11 @@ select {
 
     .numbered-title {
     justify-self: start;
+    font-size: var(--fs-800);
 }
  
+
+
     
     .primary-navigation {
         --underline-gap: .5rem;
