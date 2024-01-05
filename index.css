@@ -207,7 +207,7 @@ select {
 
 .letter-spacing-1 { letter-spacing: 4.75px; } 
 .letter-spacing-2 { letter-spacing: 0px; }
-.letter-spacing-3 { letter-spacing: 2.35px; } 
+.letter-spacing-3 { letter-spacing: 2.px; } 
 
 
 
@@ -285,7 +285,7 @@ select {
 
 .primary-header {
     margin-top: 10px;
-    margin-right: 35px;
+    margin-right: px;
     justify-content: none;
     align-items: none;
 }
@@ -317,7 +317,7 @@ select {
 }
 
     img, picutre {
-    max-width: 150%;
+    max-width: 125%;
 }
 
 
