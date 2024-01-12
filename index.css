@@ -573,7 +573,7 @@ body {
 /* crew layout */
 
 .grid-container--crew {
-    --flow-space: 2rem;
+    --flow-space: -1rem;
     grid-template-areas: 
         'title'
         'content'
