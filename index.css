@@ -311,6 +311,16 @@ select {
 
 @media (max-width: 35rem) {
 
+    .grid-container--crew {
+    --flow-space: 0rem;
+    grid-template-areas: 
+        'title'
+        'content'
+        'tabs'
+        'image';
+}
+
+    
     .numbered-title {
     justify-self: start;
     font-size: var(--fs-800);
@@ -573,7 +583,7 @@ body {
 /* crew layout */
 
 .grid-container--crew {
-    --flow-space: -1rem;
+    --flow-space: 2rem;
     grid-template-areas: 
         'title'
         'content'
