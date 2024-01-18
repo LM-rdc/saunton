@@ -312,7 +312,7 @@ select {
 @media (max-width: 35rem) {
 
     .grid-container--crew {
-    --flow-space: 0rem;
+    --flow-space: -1rem;
     grid-template-areas: 
         'title'
         'content'
