@@ -311,6 +311,9 @@ select {
 
 @media (max-width: 35rem) {
 
+    .flow > *:where(:not(:first-child)) {
+    margin-top: var(--flow-space, 1rem);
+}
     .grid-container--crew {
     --flow-space: -1rem;
     grid-template-areas: 
