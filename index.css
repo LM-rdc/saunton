@@ -148,7 +148,7 @@ select {
     display: block;
 }
 
-.flow > *:where(:not(:first-child)) {
+.flow > *:where(:(:first-child)) {
     margin-top: var(--flow-space, 1rem);
 }
 
@@ -311,7 +311,7 @@ select {
 
 @media (max-width: 35rem) {
 
-    .flow > *:where(:not(:first-child)) {
+    .flow > *:where(:(:first-child)) {
     margin-top: var(--flow-space, 1rem);
 }
     .grid-container--crew {
@@ -540,7 +540,7 @@ body {
 }
 
 .grid-container p:not([class]) {
-    max-width: 50ch;
+    max-width: 60ch;
 }
 
 .numbered-title {
