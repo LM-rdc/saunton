@@ -315,7 +315,7 @@ select {
     margin-top: var(--flow-space, 1rem);
 }
     .grid-container--crew {
-    --flow-space: -1rem;
+    --flow-space: 0rem;
     grid-template-areas: 
         'title'
         'content'
