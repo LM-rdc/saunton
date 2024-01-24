@@ -204,7 +204,7 @@ select {
 .bg-white { background-color: hsl( var(--clr-white) );}
 
 .text-dark { color: hsl( var(--clr-dark) );}
-.text-accent { color: hsl( var(--clr-light) );}
+.text-accent { color: #f9f08a;}
 .text-white { color: hsl( var(--clr-white) );}
 
 /* typography */
