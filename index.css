@@ -561,8 +561,8 @@ body {
     /*--flow-space: 2rem;*/
     grid-template-areas: 
         'title'
-        'image'
         'tabs'
+        'image'
         'content';
 }
 
