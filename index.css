@@ -147,7 +147,7 @@ select {
 }
 
 
-.grid {
+ {
     display: grid;
     gap: var(--gap, 1rem);
 }
@@ -341,7 +341,9 @@ select {
     max-width: 170%;
 }
 
-
+.grid-container {
+    text-align: left;
+}
     
     .primary-navigation {
         --underline-gap: .5rem;
