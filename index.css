@@ -205,7 +205,7 @@ select {
 
 .text-dark { color: hsl( var(--clr-dark) );}
 .text-accent { color: #f9f08a;}
-.text-white { color: #f9f08a;}
+.text-white { color: hsl( var(--clr-white) );}
 
 /* typography */
 
@@ -301,7 +301,7 @@ select {
 .primary-navigation {
     --gap: clamp(0.5rem, 3vw, 3rem);
     list-style: none;
-    backdrop-filter: blur(1.5rem);
+    backdrop-filter: blur(4.5rem);
 }
 
 .primary-navigation a {
