@@ -340,10 +340,6 @@ select {
     img, picutre {
     max-width: 170%;
 }
-
-.grid-container {
-    text-align: left;
-}
     
     .primary-navigation {
         --underline-gap: .5rem;
@@ -542,7 +538,7 @@ body {
 
 
 .grid-container {
-    text-align: center;
+    text-align: left;
     display: grid;
     padding-inline: 1rem;
     padding-bottom: 0rem;
