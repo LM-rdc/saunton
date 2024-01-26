@@ -331,18 +331,14 @@ select {
         'image';
 }
 
-
-.grid-container {
-    text-align: center;
-}
-    
+  
     .numbered-title {
     justify-self: start;
     font-size: var(--fs-800);
 }
 
     img, picutre {
-    max-width: 170%;
+    max-width: 165%;
 }
     
     .primary-navigation {
