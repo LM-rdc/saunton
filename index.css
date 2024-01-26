@@ -331,6 +331,10 @@ select {
         'image';
 }
 
+
+.grid-container {
+    text-align: center;
+}
     
     .numbered-title {
     justify-self: start;
