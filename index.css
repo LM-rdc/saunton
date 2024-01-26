@@ -551,6 +551,7 @@ body {
 
 .numbered-title {
     grid-area: title;
+    padding-bottom: 2rem;
 }
 
 /* destination layout */
