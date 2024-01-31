@@ -98,6 +98,10 @@ body {
     overflow-x: hidden;
 }
 
+p.LM {
+font-size: 0.9rem;
+}
+
 /* make images easier to work with */
 img,
 picutre {
