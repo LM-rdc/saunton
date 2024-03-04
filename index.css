@@ -6,6 +6,7 @@
     margin-right: .5em;
     font-weight: 700;
     color: hsl(var(--clr-white) / .25);
+    font-size: xxx-large;
 }
 
 :root {
