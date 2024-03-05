@@ -94,7 +94,7 @@ body {
     font-family: var(--ff-sans-normal);
     /*font-family: sans-serif;*/
     /*font-size: var(---500);*/
-    font-size: 1.3rem;
+    font-size: 1.4rem;
     color: hsl( var(--clr-white) );
     background: linear-gradient(270deg, rgb(88 87 197 / 98%) 4%, rgb(86 126 165) 34%, rgb(94 194 150) 100%);
     /*line-height: 1.5;*/
