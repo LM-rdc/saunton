@@ -562,7 +562,7 @@ body {
 
 .numbered-title {
     grid-area: title;
-    /*padding-bottom: 2rem;*/
+    padding-bottom: 1rem;
 }
 
 /* destination layout */
