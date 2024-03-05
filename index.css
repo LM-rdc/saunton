@@ -11,7 +11,8 @@
 .lmtrans {
     font-weight: 700;
     color: hsl(var(--clr-white) / .25);
-    font-size: 5rem;;
+    font-size: 5rem;
+    text-align: center;
 }
 
 :root {
@@ -336,6 +337,13 @@ select {
 
 @media (max-width: 35rem) {
 
+    .lmtrans {
+    font-weight: 700;
+    color: hsl(var(--clr-white) / .25);
+    font-size: 5rem;
+    text-align: end;
+}
+
     .flow > *:where(:(:first-child)) {
     margin-top: var(--flow-space, 1rem);
 }
@@ -383,7 +391,7 @@ select {
         display: block;
         position: absolute;
         z-index: 2000;
-        right: 1.0rem;
+        right: 0.5rem;
         top: 1.3rem;
         background: transparent;
         background-image: url(./assets/shared/menu-4-32.png);
