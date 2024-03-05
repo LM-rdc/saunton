@@ -8,6 +8,12 @@
     font-size: xx-large;
 }
 
+.lmtrans {
+    font-weight: 700;
+    color: hsl(var(--clr-white) / .25);
+    font-size: 5rem;;
+}
+
 :root {
     /* colors */
     --clr-dark: 230 35% 7%;
