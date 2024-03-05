@@ -24,7 +24,7 @@
     /* font-sizes */
   /*--fs-900: clamp(5rem, 8vw + 1rem, 9.375rem);*/
     --fs-900: 6.0rem;
-    --fs-800: 3.0rem;
+    --fs-800: 3.1rem;
     --fs-700: 1.5rem;
     --fs-600: 1.2rem;
     --fs-500: 1.2rem;
@@ -340,8 +340,8 @@ select {
     .lmtrans {
     font-weight: 700;
     color: hsl(var(--clr-white) / .25);
-    font-size: 5rem;
-    text-align: end;
+    font-size: 3rem;
+    text-align: left;
 }
 
     .flow > *:where(:(:first-child)) {
