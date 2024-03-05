@@ -98,8 +98,8 @@ p {
 
 /* set up the body */
 body {
-    font-family: var(--ff-sans-normal);
-    /*font-family: sans-serif;*/
+    /*font-family: var(--ff-sans-normal);*/
+    font-family: sans-serif;
     /*font-size: var(---500);*/
     font-size: 1.4rem;
     color: hsl( var(--clr-white) );
