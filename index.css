@@ -261,8 +261,7 @@ select {
     font-size: var(--fs-900);
     /*text-transform: uppercase;*/
     /*letter-spacing: 4.72px;*/
-    justify-self: center;
-    
+    justify-self: center;    
 }
 
 .numbered-title span {
@@ -583,6 +582,7 @@ body {
 .numbered-title {
     grid-area: title;
     padding-bottom: 1rem;
+    align-self: normal;
 }
 
 /* destination layout */
