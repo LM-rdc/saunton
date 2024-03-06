@@ -465,7 +465,7 @@ select {
 
 .underline-indicators > *:hover,
 .underline-indicators > *:focus {
-    border-color: hsl( var(--clr-white) / .5);
+    /*border-color: hsl( var(--clr-white) / .5);*/
 }
 
 .underline-indicators > .active,
