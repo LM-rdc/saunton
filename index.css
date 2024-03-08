@@ -571,8 +571,8 @@ body {
     text-align: left;
     display: grid;
     padding-inline: 1rem;
-    padding-bottom: 0rem;
-    align-items: center;
+    padding-bottom: 5rem;
+    /*align-items: center;*/
 }
 
 .grid-container p:not([class]) {
