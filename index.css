@@ -339,6 +339,10 @@ select {
 
 @media (max-width: 35rem) {
 
+    .commander-image {
+    max-width: 100%;
+}
+    }
     .lmtrans {
     font-weight: 700;
     color: hsl(var(--clr-white) / .25);
