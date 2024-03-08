@@ -206,7 +206,7 @@ select {
 .skip-to-content {
     position: absolute;
     z-index: 9999;
-    background: hsl( var(--clr-white) );
+    /*background: hsl( var(--clr-white) );*/
     color: hsl( var(--clr-dark) ); 
     padding: .5em 1em;
     margin-inline: auto;
@@ -367,7 +367,7 @@ select {
 }
 
     img, picutre {
-    max-width: 165%;
+    max-width: 100%;
 }
     
     .primary-navigation {
