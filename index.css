@@ -596,9 +596,9 @@ body {
         'content';
 }
 
-.grid-container--destination > picture {
+.grid-container-- > picture {
     grid-area: image;
-    /*max-width: 60%;*/
+    max-width: 60%;
     align-self: start;
 }
 
