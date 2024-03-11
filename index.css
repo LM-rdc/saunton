@@ -352,7 +352,7 @@ select {
     padding: 3rem;
 }
 
-.grid-container {
+  .grid-container {
     text-align: center;
     display: grid;
     padding-inline: 1rem;
