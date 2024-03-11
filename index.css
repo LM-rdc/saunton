@@ -589,7 +589,7 @@ body {
 
 
 .grid-container {
-    text-align: left;
+    /*text-align: left;*/
     display: grid;
     padding-inline: 1rem;
     padding-bottom: 5rem;
