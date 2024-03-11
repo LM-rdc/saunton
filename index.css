@@ -349,17 +349,8 @@ select {
 
     .tab-list {
     --gap: 2rem;
-    padding: 3rem;
+    padding: 2rem;
 }
-
-  .grid-container {
-    text-align: center;
-    display: grid;
-    padding-inline: 1rem;
-    padding-bottom: 5rem;
-    /* align-items: center; */
-}
-
     .lmtrans {
     font-weight: 700;
     color: hsl(var(--clr-white) / .25);
@@ -589,7 +580,7 @@ body {
 
 
 .grid-container {
-    /*text-align: left;*/
+    text-align: left;
     display: grid;
     padding-inline: 1rem;
     padding-bottom: 5rem;
