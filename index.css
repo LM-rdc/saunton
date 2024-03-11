@@ -347,6 +347,18 @@ select {
 
 @media (max-width: 35rem) {
 
+    .tab-list {
+    --gap: 2rem;
+    padding: 3rem;
+}
+
+.grid-container {
+    text-align: center;
+    display: grid;
+    padding-inline: 1rem;
+    padding-bottom: 5rem;
+    /* align-items: center; */
+}
 
     .lmtrans {
     font-weight: 700;
