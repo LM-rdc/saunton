@@ -349,7 +349,7 @@ select {
 
     .tab-list {
     --gap: 2rem;
-    padding: 2rem;
+    padding-bottom: 2rem;
 }
     .lmtrans {
     font-weight: 700;
