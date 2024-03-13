@@ -618,7 +618,7 @@ body {
     grid-area: tabs;
 }
 
-.grid-container--destinationlm > .tab-list {
+.grid-container--destination > .tab-listlm {
     grid-area: tabs;
   width: 70%;
   height: 50px;
