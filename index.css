@@ -616,6 +616,13 @@ body {
 
 .grid-container--destination > .tab-list {
     grid-area: tabs;
+  width: 70%;
+  height: 50px;
+  border: 2px solid white;
+  border-radius: 2rem;
+  padding: 5px;
+  margin-bottom: 1rem;
+  text-align: center;
 }
 
 .grid-container--destination > .destination-info {
